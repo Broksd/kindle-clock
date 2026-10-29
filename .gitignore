@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+._*
+.venv/
+venv/
+*.log
+*.pid
+extensions/adelaide-clock/settings.json
+extensions/adelaide-clock/settings.json.tmp
+extensions/adelaide-clock/orientation.txt
+extensions/adelaide-clock/weather-cache.json
+backup*/
+*.bin
+*.tar.gz
+*.tar.xz
